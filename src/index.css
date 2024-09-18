@@ -1,0 +1,13 @@
+*{
+  padding: 0px;
+  margin:0px;
+  box-sizing: border-box;
+
+}
+.login{
+  background-image: url(https://img.freepik.com/premium-vector/halftone-comic-background-blue-wallpaper-template-with-superhero-design-vector-illustration_499431-1333.jpg?w=2000);
+  background-size: cover;
+}
+.loginmain{
+  background-color: rgba(3, 91, 97, 0.723);
+}
